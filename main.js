@@ -12,7 +12,7 @@ if (constructorOne === 'red' && constructorTwo === 'blue' ||
     constructorOne === 'blue' && constructorTwo === 'red'){
     console.log("red and blue make purple")
 }else if(constructorOne === 'red' && constructorTwo === 'yellow' ||
-        constructorOne === 'yellow' && colorTwo === 'red'){
+        constructorOne === 'yellow' && constructorTwo === 'red'){
         console.log("red and yellow make orange")
 }else if(constructorOne === 'blue' && constructorTwo === 'yellow' ||
         constructorOne === 'yellow' && constructorTwo === 'blue'){
